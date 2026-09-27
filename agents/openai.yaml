@@ -1,0 +1,4 @@
+interface:
+  display_name: "自适应颗粒纸印"
+  short_description: "保留照片主体与构图，自适应原图色彩，生成干净细颗粒纸感和自然碎光"
+  default_prompt: "使用 $photo-grain-print，将我上传的每张照片分别转为颗粒纸印风格；配色接近参考时匹配参考，差异明显时保留原色，有高光时按图一处理，确保舒服干净。"
